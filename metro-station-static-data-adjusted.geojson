@@ -1,0 +1,6516 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.440439978057246,
+                    48.844456394569114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2035-2154",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Chateau de Vincennes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.429205166348,
+                    48.84547070758355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2067-2116",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Berault"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.41947990037451,
+                    48.84635698889295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1725-2470",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Mande"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.410140367974107,
+                    48.8471584794021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1751-2429",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Vincennes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39606230542588,
+                    48.84847428597437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1832-2371",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Nation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.387341706352172,
+                    48.84730378614119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1698-2443",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Reuilly-Diderot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3740142199400958,
+                    48.84398558201753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1955-2210",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Gare de Lyon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.370320584925386,
+                    48.852479422836296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2062-2111",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Bastille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.360956488661,
+                    48.855236252795095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1642-2522",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Paul (Le Marais)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.352577562994996,
+                    48.85747798252934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1892-2288",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Hotel de Ville"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.348305852747763,
+                    48.85879919807379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2036-2155",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Chatelet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.341108591634067,
+                    48.8608062912721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1864-2331",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Louvre-Rivoli"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3378783975967057,
+                    48.862829672789964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1773-2383",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Palais-Royal (Musee du Louvre)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.330129877112861,
+                    48.86434377873391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1688-2498",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Tuileries"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.323943412243542,
+                    48.866285804583875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1980-2170",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Concorde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.314545549946741,
+                    48.86790534489709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2083-2544",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Champs-Elysees-Clemenceau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3105051573378868,
+                    48.86869984735294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1945-2200",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Franklin-Roosevelt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.300560451248797,
+                    48.87202380950043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1961-2216",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "George V"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.296567369745454,
+                    48.874613927042155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2028-2147",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Charles de Gaulle-Etoile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.289322589613774,
+                    48.87559404986667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2048-2098",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Argentine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.283162242230229,
+                    48.87755125180425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1755-2433",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Porte Maillot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.271686721050983,
+                    48.88119152058607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1856-2323",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Les Sablons (Jardin d'acclimatation)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.260515077888117,
+                    48.88470820132253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1803-2342",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Pont de Neuilly"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.247932435324862,
+                    48.88863121777118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1933-2258",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "Esplanade de la Defense"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.237018056395014,
+                    48.8921870764495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1887-2283",
+                "line": "1",
+                "marker-color": "#FFBE00",
+                "marker-symbol": "rail-metro",
+                "name": "La Defense (Grande Arche)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39506230542588,
+                    48.84947428597437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1833-2338",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Nation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.398302344267162,
+                    48.85151027816436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2058-2107",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Avron"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.394561944560314,
+                    48.85637735718154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2041-2160",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Alexandre-Dumas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.389729852353504,
+                    48.85846654943374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1788-2398",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Philippe Auguste"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.388607288151709,
+                    48.86265401909355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1784-2394",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Pere-Lachaise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.383383250455203,
+                    48.86680003509802
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1812-2351",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Menilmontant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.380542585989343,
+                    48.86909116292499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2079-2128",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Couronnes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.377702144728945,
+                    48.872310113783094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2087-2548",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Belleville"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.370811395312745,
+                    48.87761018741785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1978-2168",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Colonel Fabien"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.371262126660263,
+                    48.881498595910074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1900-2296",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Jaures"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.37039198436133,
+                    48.884385145353036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1674-2484",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Stalingrad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.360491318526145,
+                    48.88439879515334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1910-2235",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "La Chapelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.350774443646268,
+                    48.88343618805934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2086-2547",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Barbes-Rochechouart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.344130633722553,
+                    48.88286864756839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2046-2096",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Anvers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3380816825149737,
+                    48.882519385636314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1791-2401",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Pigalle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.331926590885041,
+                    48.88395857351673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2071-2120",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Blanche"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.328839556114741,
+                    48.88361499223493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1795-2405",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Place de Clichy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.321274926766349,
+                    48.88222690081934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1707-2452",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Rome"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.316176626220464,
+                    48.881150028474686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1629-2509",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Villiers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.309451167991542,
+                    48.8804494561385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1822-2361",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Monceau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.303528725370108,
+                    48.879214134245586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1989-2179",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Courcelles"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.298310375124943,
+                    48.877972701427545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1684-2494",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Ternes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.295067369745454,
+                    48.87547995244594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2029-2148",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Charles de Gaulle-Etoile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.285335094686169,
+                    48.86979855646068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1694-2504",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Victor Hugo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.277083017052586,
+                    48.87146657812765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1736-2414",
+                "line": "2",
+                "marker-color": "#0055C8",
+                "marker-symbol": "rail-metro",
+                "name": "Porte Dauphine (Marechal de Lattre de Tassigny)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.41669727285771,
+                    48.865335317260985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1949-2204",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Gallieni (Parc de Bagnolet)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.408031037075815,
+                    48.864600373375616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1737-2415",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Bagnolet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.399746593442592,
+                    48.86516343488148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1950-2205",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Gambetta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3866072881517093,
+                    48.86265401909355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1785-2395",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Pere-Lachaise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.380797986183677,
+                    48.864086574750985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1728-2471",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Rue Saint-Maur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.374581969996412,
+                    48.865253786054325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1779-2389",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Parmentier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364826143977408,
+                    48.86750342377884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1766-2376",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Republique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.361541532068171,
+                    48.86668268024132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1683-2493",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Temple"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.357729869173701,
+                    48.865322711678054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2050-2099",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Arts-et-Metiers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3530683180500698,
+                    48.866340299288545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1765-2375",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Reaumur-Sebastopol"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.347516213278753,
+                    48.86730947497152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1662-2542",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Sentier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.340720723674097,
+                    48.868695977842876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2007-2196",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Bourse"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.336218847521674,
+                    48.869585243484515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1760-2438",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Quatre Septembre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3329895226832478,
+                    48.8709917839485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1846-2313",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Opera"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.328695409630174,
+                    48.87371340670774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1889-2285",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Havre-Caumartin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3255748102939178,
+                    48.87500639805501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1722-2467",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Lazare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.322265213118896,
+                    48.87877036848683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1935-2260",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Europe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.314176626220464,
+                    48.881150028474686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1630-2510",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Villiers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.309052264550479,
+                    48.88289191745413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1881-2277",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Malesherbes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.304674440528396,
+                    48.883809201233376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1634-2514",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Wagram"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.297724346480178,
+                    48.88489625515051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1786-2396",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Pereire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.292582314102913,
+                    48.885793105231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1738-2416",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Champerret"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.288083633048504,
+                    48.88870601977514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1862-2329",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Louise Michel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.285009502746195,
+                    48.89208278597479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2044-2163",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Anatole-France"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.279809586693102,
+                    48.89782106711132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1802-2341",
+                "line": "3",
+                "marker-color": "#6E6E00",
+                "marker-symbol": "rail-metro",
+                "name": "Pont de Levallois-Becon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.407480156998486,
+                    48.87717481930547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1752-2430",
+                "line": "3b",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Porte des Lilas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.404514942379104,
+                    48.872101442131545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1718-2463",
+                "line": "3b",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Fargeau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.401561712742541,
+                    48.86844016327547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1783-2393",
+                "line": "3b",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Pelleport"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.397746593442592,
+                    48.86516343488148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1659-2539",
+                "line": "3b",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Gambetta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.344847748752398,
+                    48.89740222289809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1742-2420",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Clignancourt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.347765501718976,
+                    48.89394138802911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1668-2478",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Simplon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.350738407022142,
+                    48.89141683421295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1655-2535",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Marcadet-Poissonniers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.349694082202741,
+                    48.887374910553596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2033-2152",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Chateau Rouge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3487744436462683,
+                    48.88343618805934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2061-2110",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Barbes-Rochechouart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3584593465887167,
+                    48.87985014251205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1957-2212",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Gare du Nord"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.358880771925327,
+                    48.8759910648072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1953-2208",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Gare de l'Est (Verdun)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.356044907672176,
+                    48.872424914488995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2034-2153",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Chateau d'Eau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.355603790697162,
+                    48.8692241716524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1677-2487",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Strasbourg-Saint-Denis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.35106831805007,
+                    48.866340299288545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1764-2374",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Reaumur-Sebastopol"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.348880652588476,
+                    48.863807437781254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1934-2259",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Etienne Marcel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.345673828222722,
+                    48.8623162786956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1855-2322",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Les Halles"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.347614869742138,
+                    48.85975025459008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1964-2219",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Chatelet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.347321315727239,
+                    48.854936376552644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1975-2230",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Cite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.343285978923924,
+                    48.853167984890604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1729-2472",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Michel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.340727781593096,
+                    48.85230076309423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1845-2312",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Odeon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.333776136855683,
+                    48.85371893399261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1721-2466",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Germain des Pres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.331256291370013,
+                    48.851672245619895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1733-2411",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Sulpice"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.326792785039299,
+                    48.84687823795213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1731-2442",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Placide"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.325397012397453,
+                    48.84378130483655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1824-2363",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Montparnasse-Bienvenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.329008926235403,
+                    48.84221841361352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1692-2502",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Vavin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.331754192086216,
+                    48.838964280710556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1645-2525",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Raspail"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.332740130985349,
+                    48.833450858213496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1996-2185",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Denfert-Rochereau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.329705012620185,
+                    48.831112660375325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1828-2367",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Mouton-Duvernet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.327164649607824,
+                    48.82818847631351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2040-2159",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Alesia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.325575636212245,
+                    48.82341162898738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1735-2413",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Porte d'Orleans (General Leclerc)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.319740313298555,
+                    48.818676409912605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "4028973-4028974",
+                "line": "4",
+                "marker-color": "#A0006E",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie de Montrouge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.449189904488852,
+                    48.90637477027001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2089-2550",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Bobigny-Pablo-Picasso"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.425326888802467,
+                    48.89545467304617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2072-2121",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Bobigny-Pantin (Raymond Queneau)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.41331313951059,
+                    48.89325758997389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1932-2257",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Eglise de Pantin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.402352142536798,
+                    48.89122859319665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1891-2287",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Hoche"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.392113697756401,
+                    48.88850368786184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1746-2424",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Pantin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.386960017135177,
+                    48.887134869076554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1772-2382",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Ourcq"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.379663077480466,
+                    48.8852161820946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1922-2247",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Laumiere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.369762126660263,
+                    48.88236462131386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1901-2297",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Jaures"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.36889198436133,
+                    48.885251170756824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1675-2485",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Stalingrad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.356459346588717,
+                    48.87985014251205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1958-2213",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Gare du Nord"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.357380771925327,
+                    48.87685709021099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2076-2125",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Gare de l'Est (Verdun)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.361027466917372,
+                    48.87080998002082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1898-2294",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Jacques-Bonsergent"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364135160971783,
+                    48.868454480295135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1767-2377",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Republique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.369410025658025,
+                    48.864657879612494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1843-2310",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Oberkampf"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.371913980089996,
+                    48.85987362437059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1700-2445",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Richard-Lenoir"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.370209338414258,
+                    48.85614070934924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2008-2164",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Breguet-Sabin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.368820584925386,
+                    48.853345448240084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2063-2112",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Bastille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.365873469406567,
+                    48.8465154041934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1759-2437",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Quai de la Rapee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.366184812004335,
+                    48.84243679702547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1951-2206",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Gare d'Austerlitz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.360967167698855,
+                    48.83842729696758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1641-2521",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Marcel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.358823489097101,
+                    48.83549535538261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2017-2136",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Campo-Formio"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.35658027407791,
+                    48.83097267298836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1793-2403",
+                "line": "5",
+                "marker-color": "#FF5A00",
+                "marker-symbol": "rail-metro",
+                "name": "Place d'Italie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39406230542588,
+                    48.84847428597437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1834-2339",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Nation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.401289019827348,
+                    48.8450615799449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1789-2399",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Picpus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.400918538121599,
+                    48.84133825093756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2065-2114",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Bel-Air"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.396703289436394,
+                    48.839549645568674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2081-2094",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Daumesnil (Felix Eboue)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.389620011336723,
+                    48.839041143700065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2082-2543",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Dugommier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3805540112034347,
+                    48.840001389548114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2068-2117",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Bercy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.372825721828786,
+                    48.837045119244316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1644-2524",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Quai de la Gare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.368126329061812,
+                    48.83494772234805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1974-2229",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Chevaleret"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.362856399519012,
+                    48.833216719709846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1836-2303",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Nationale"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3550802740779098,
+                    48.83183869839215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1794-2404",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Place d'Italie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.350414872010464,
+                    48.82979051369296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1987-2177",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Corvisart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.343511657749776,
+                    48.831129548026645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1962-2217",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Glaciere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.337135190607983,
+                    48.832900816544466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1640-2520",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Jacques"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3307401309853493,
+                    48.833450858213496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1997-2186",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Denfert-Rochereau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.329754192086216,
+                    48.838964280710556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1763-2409",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Raspail"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.326384610792847,
+                    48.840663229299565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1930-2255",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Edgar-Quinet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.324397012397453,
+                    48.844781304836545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1825-2364",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Montparnasse-Bienvenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3134475130659857,
+                    48.84287127500633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1781-2391",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Pasteur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.309531490098375,
+                    48.84562696673932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1665-2475",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Sevres-Lecourbe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.30296829919196,
+                    48.84750708110547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2016-2135",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Cambronne"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.299930911748061,
+                    48.84874166571782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1657-2537",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "La Motte-Picquet-Grenelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.293612439913189,
+                    48.85043454902951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1926-2251",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Dupleix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.289334532766542,
+                    48.85394260711305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2069-2118",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Bir-Hakeim (Grenelle)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.285812444134081,
+                    48.857448690975104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1780-2390",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Passy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2872431706912577,
+                    48.86306502022607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1687-2497",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Trocadero"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.290058834931356,
+                    48.86698311035682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2073-2122",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Boissiere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.293524290341821,
+                    48.87164976914353
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1909-2234",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Kleber"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.295067369745454,
+                    48.87374790163837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2030-2149",
+                "line": "6",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Charles de Gaulle-Etoile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.410598613730138,
+                    48.920785969948675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1911-2236",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "La Courneuve-8-Mai-1945"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.404409087427758,
+                    48.91494975637021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1944-2199",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Fort d'Aubervilliers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.392287059642348,
+                    48.903759930170864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2055-2104",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Aubervilliers Pantin (4 Chemins)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.385508387679288,
+                    48.89738989068259
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1744-2422",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de la Villette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.382522343415364,
+                    48.89483646840174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1985-2175",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Corentin-Cariou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.377315755595574,
+                    48.89078896952844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2080-2093",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Crimee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.374204012035863,
+                    48.88826761697049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1703-2448",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Riquet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.36889198436133,
+                    48.88351911994925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1676-2486",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Stalingrad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3665443191724758,
+                    48.88128581185832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1860-2327",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Louis Blanc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.362160071922951,
+                    48.878565625799595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2085-2546",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Chateau Landon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.357380771925327,
+                    48.875125039403414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1954-2209",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Gare de l'Est (Verdun)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.349293902476005,
+                    48.87723631913661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1800-2373",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Poissonniere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.344126030464426,
+                    48.87589068189371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2015-2134",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Cadet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.34019988438517,
+                    48.87487434337737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1849-2316",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Le Peletier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.334451218577799,
+                    48.87310927430917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1971-2226",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Chaussee d'Antin (La Fayette)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3314895226832477,
+                    48.871857809352285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1847-2314",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Opera"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.33518954196825,
+                    48.86590673959416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1757-2435",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Pyramides"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.335878397596706,
+                    48.862829672789964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1774-2384",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Palais-Royal (Musee du Louvre)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.342232759368107,
+                    48.85855382636668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1806-2345",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Pont Neuf"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.346496835753388,
+                    48.85938698332608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1966-2221",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Chatelet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.357162571618337,
+                    48.853575472503586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1805-2344",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Pont Marie (Cite des Arts)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.36198514100077,
+                    48.85123768038418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1681-2491",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Sully-Morland"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.35605026306104,
+                    48.845950666642075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1907-2232",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Jussieu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.352224728183084,
+                    48.84286683068266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1649-2529",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Place Monge (Jardin des Plantes)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.351739487166927,
+                    48.8404866526412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2020-2139",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Censier-Daubenton"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.352588925635323,
+                    48.83586348417992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1854-2321",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Les Gobelins"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3550802740779098,
+                    48.83010664758457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1648-2528",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Place d'Italie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.357245650758686,
+                    48.826426010875664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1685-2495",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Tolbiac"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.358473883854336,
+                    48.8224378345855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1876-2272",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Maison Blanche"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.359705216746021,
+                    48.819223349609054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1808-2347",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Porte d'Italie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364531951747296,
+                    48.81987622104988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1740-2418",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Choisy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.369290587346029,
+                    48.82135578381408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1734-2412",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Porte d'Ivry"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.377267200151936,
+                    48.81593076304922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1790-2400",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Pierre et Marie Curie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.383551479649113,
+                    48.81109919771153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1871-2301",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie d'Ivry"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.362263387127349,
+                    48.81012995727393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1925-2250",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Le Kremlin-Bicetre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.363953196602166,
+                    48.804688120911365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1639-2519",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Villejuif-Leo Lagrange"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.36826954143277,
+                    48.796483082759046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1696-2506",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Villejuif-Paul Vaillant Couturier (Hopital Paul Brousse)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.367804106975457,
+                    48.78756279205349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1695-2505",
+                "line": "7",
+                "marker-color": "#FF82B4",
+                "marker-symbol": "rail-metro",
+                "name": "Villejuif-Louis Aragon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.398946662455969,
+                    48.879995794367346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1756-2434",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Pre-Saint-Gervais"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.393445456490355,
+                    48.881931998728206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1635-",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Danube"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.389115807376888,
+                    48.87948177191293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2002-2191",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Botzaris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.381614511939643,
+                    48.87851411312453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2013-2132",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Buttes-Chaumont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.374147153839052,
+                    48.88082126137613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2075-2124",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Bolivar"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.369762126660263,
+                    48.880632570506286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1902-2298",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Jaures"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364544319172476,
+                    48.88128581185832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1861-2328",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Louis Blanc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.393983964817394,
+                    48.876949848110215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "-1797",
+                "line": "7b",
+                "marker-color": "#82DC73",
+                "marker-symbol": "rail-metro",
+                "name": "Place des Fetes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.278161671278975,
+                    48.83593087919467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343334-3343335",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Balard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.282700027239131,
+                    48.838960939372015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343336-3343337",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Lourmel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.287945766499665,
+                    48.8410940563496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343338-3343339",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Boucicaut"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.291912413317875,
+                    48.842746779792876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343746-3343752",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Felix Faure"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.293951963636534,
+                    48.84479476461109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343753-3343754",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Commerce"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.298430911748061,
+                    48.849607691121605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343755-3343756",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "La Motte-Picquet-Grenelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.306097403704285,
+                    48.85468215688774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343757-3343758",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Ecole Militaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.310565960946846,
+                    48.85772541289345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343759-3343760",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "La Tour-Maubourg"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.314909577788542,
+                    48.862364704125895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343761-3343762",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Invalides"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.322443412243542,
+                    48.86715182998766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343763-3343764",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Concorde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3272722740277487,
+                    48.86963317302491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343765-3343766",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Madeleine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3314895226832477,
+                    48.87012575854471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343767-3343768",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Opera"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.340115039269688,
+                    48.8721523525874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343769-3343770",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Richelieu-Drouot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.344154773075233,
+                    48.87149773935003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343771-3343772",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Grands Boulevards"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.351497971863092,
+                    48.87016420090056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343773-3343774",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Bonne Nouvelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.354103790697162,
+                    48.870090197056186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343775-3343776",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Strasbourg-Saint-Denis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.363017126983033,
+                    48.868091209031135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343777-3343778",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Republique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.366661094716491,
+                    48.8632579449661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343779-3343780",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Filles du Calvaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.367210866411708,
+                    48.861168865487805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343781-3343782",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Sebastien-Froissart"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.368108290701383,
+                    48.85742003754715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343783-3343784",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Chemin Vert"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.368820584925386,
+                    48.85161339743251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343785-3343786",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Bastille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.376118773339345,
+                    48.851271126365226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343787-3343788",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Ledru-Rollin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.384092210066296,
+                    48.850177861900356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343789-3343790",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Faidherbe-Chaligny"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3853417063521722,
+                    48.84730378614119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343791-3343792",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Reuilly-Diderot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39007511282003,
+                    48.844408672078906
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343793-3343794",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Montgallet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.394703289436394,
+                    48.839549645568674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343795-3343796",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Daumesnil (Felix Eboue)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.402333165917444,
+                    48.83711700699553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343797-3343798",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Michel Bizot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.405383210626771,
+                    48.8347851580814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343799-3343800",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Porte Doree"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.401448054218978,
+                    48.83316292950388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343801-3343802",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Charenton"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.406742225927992,
+                    48.82605499654801
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343803-3343804",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Liberte"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.413737517516731,
+                    48.82159576732173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343805-3343806",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Charenton-Ecoles"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.422376142845623,
+                    48.814803007000464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343807-3343808",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Ecole Veterinaire de Maisons-Alfort"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.434509895933692,
+                    48.809144360936045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343809-3343810",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Maisons-Alfort-Stade"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.446927484242136,
+                    48.802637690718086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343811-3343812",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Maisons-Alfort-Les Juilliottes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.449433175686986,
+                    48.796740766583056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343813-3343814",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Creteil-L'Echat (Hopital Henri Mondor)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.450453177915302,
+                    48.78997831034893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343815-3343816",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Creteil-Universite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.459368396259053,
+                    48.77990531695967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343817-3343818",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Creteil-Prefecture (Hotel de Ville)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.464564993211323,
+                    48.768715125271434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3343819-3343825",
+                "line": "8",
+                "marker-color": "#D282BE",
+                "marker-symbol": "rail-metro",
+                "name": "Pointe du Lac"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.230799591317221,
+                    48.82967484383875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1804-2343",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Pont de Sevres"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.238639348575401,
+                    48.832110560110216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2088-2549",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Billancourt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.243840592379737,
+                    48.83370884910397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1884-2280",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Marcel Sembat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.257122229845438,
+                    48.83796121353705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1747-2425",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Saint-Cloud"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.260032902212424,
+                    48.84293869586254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1936-2261",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Exelmans"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.262745124963672,
+                    48.845058172313735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1816-2355",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Michel-Ange-Molitor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.265082030746222,
+                    48.84789565020842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1814-2353",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Michel-Ange-Auteuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.26817674943596,
+                    48.85250409061289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1899-2295",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Jasmin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.270109138941893,
+                    48.855485050404425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1762-2440",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Ranelagh"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.27415463108692,
+                    48.85804605629201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1917-2242",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "La Muette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.278112558447475,
+                    48.86397444578292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1708-2453",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Rue de la Pompe (Avenue Georges Mandel)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.285243170691258,
+                    48.86306502022607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1637-2517",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Trocadero"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.294162018108232,
+                    48.864794065815566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1895-2291",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Iena"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.300991003495585,
+                    48.86476684497177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2043-2162",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Alma-Marceau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.308505157337887,
+                    48.86869984735294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1946-2201",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Franklin-Roosevelt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.310038344619937,
+                    48.87242238365101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1730-2441",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Philippe du Roule"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.315606321619312,
+                    48.87370952773764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1819-2358",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Miromesnil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.321361928104079,
+                    48.87455838471093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1715-2460",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Augustin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.326695409630174,
+                    48.87371340670774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1890-2286",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Havre-Caumartin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3324512185777992,
+                    48.87310927430917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1972-2227",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Chaussee d'Antin (La Fayette)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.338115039269688,
+                    48.8721523525874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1702-2447",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Richelieu-Drouot"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.342154773075233,
+                    48.87149773935003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1712-2457",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Grands Boulevards"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.349497971863092,
+                    48.87016420090056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2001-2190",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Bonne Nouvelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.354103790697162,
+                    48.86835814624861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1678-2488",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Strasbourg-Saint-Denis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.363017126983033,
+                    48.86691563852655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1647-2527",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Republique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.367410025658025,
+                    48.864657879612494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1844-2311",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Oberkampf"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.37473343128132,
+                    48.86101925991959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1714-2459",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Ambroise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.38071878585627,
+                    48.85745372268132
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1633-2513",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Voltaire (Leon Blum)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.385563480822886,
+                    48.85458049908102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2032-2151",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Charonne"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.389378127918613,
+                    48.85231542739917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1709-2454",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Rue des Boulets"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39506230542588,
+                    48.84747428597437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1651-2531",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Nation"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.401022270517142,
+                    48.851812133001964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2014-2133",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Buzenval"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.406089161879023,
+                    48.85272511927084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1882-2278",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Maraichers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.41062642573733,
+                    48.853543916083595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1745-2423",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Montreuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.422983216145875,
+                    48.855726428633155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1704-2449",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Robespierre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.435555715694056,
+                    48.85796559116602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1993-2183",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Croix-de-Chavaux (Jacques Duclos)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.441310941253409,
+                    48.861936914133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1873-2269",
+                "line": "9",
+                "marker-color": "#D2D200",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie de Montreuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.228536981504942,
+                    48.840745015226894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2005-2194",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Boulogne Pont de Saint-Cloud"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.238887325790711,
+                    48.84200534728089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2004-2193",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Boulogne-Jean-Jaures"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.257744680376012,
+                    48.84797154059771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "8433-2346",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Porte d'Auteuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2607451249636723,
+                    48.845058172313735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1817-",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Michel-Ange-Molitor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.266441543081952,
+                    48.84520470358954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2026-",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Chardon-Lagache"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.272763753316159,
+                    48.847131008196236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1818-",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Mirabeau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.277711739827638,
+                    48.846123666874924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1903-2299",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Javel-Andre-Citroen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.285999223421597,
+                    48.84653463673933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2031-2150",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Charles Michels"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.295420478027581,
+                    48.84701958188098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2057-2106",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Avenue Emile-Zola"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.298430911748061,
+                    48.84787564031403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1916-2241",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "La Motte-Picquet-Grenelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.307402240619641,
+                    48.84706613315245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1661-2541",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Segur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3180052357372447,
+                    48.846989106139524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1927-2252",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Duroc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.32125786290546,
+                    48.8488163724703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1690-2500",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Vaneau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.327488473969165,
+                    48.851192349321856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1666-2476",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Sevres-Babylone"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.335502053090325,
+                    48.85301676792474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1867-2334",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Mabillon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.338727781593096,
+                    48.85230076309423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1653-2533",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Odeon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.344273345421351,
+                    48.851050282314304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1977-2167",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Cluny-La Sorbonne"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.348054290484543,
+                    48.85012732379643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1811-2350",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Maubert-Mutualite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.351623256378513,
+                    48.84665685125004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2018-2137",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Cardinal-Lemoine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.35405026306104,
+                    48.845950666642075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1908-2233",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Jussieu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364184812004335,
+                    48.84243679702547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1952-2207",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Gare d'Austerlitz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.269135872730268,
+                    48.84715005570977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "-2256",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Eglise d'Auteuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2630820307462223,
+                    48.84789565020842
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "-2354",
+                "line": "10",
+                "marker-color": "#DC9600",
+                "marker-symbol": "rail-metro",
+                "name": "Michel-Ange-Auteuil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.416479643671439,
+                    48.8797612539972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1875-2271",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie des Lilas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.405480156998486,
+                    48.87717481930547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1753-2431",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Porte des Lilas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.398867593898875,
+                    48.875474456665465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1682-2492",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Telegraphe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.391983964817394,
+                    48.876949848110215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1798-2408",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Place des Fetes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.389415032035528,
+                    48.87511181695599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1905-2266",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Jourdain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.385316215101792,
+                    48.87388185415816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1758-2436",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Pyrenees"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3757021447289453,
+                    48.872310113783094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2066-2115",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Belleville"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.371094839731201,
+                    48.86995751270301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1963-2218",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Goncourt (Hopital Saint-Louis)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364135160971783,
+                    48.86655236726255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "967988-967989",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Republique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.355729869173701,
+                    48.865322711678054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2051-2100",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Arts-et-Metiers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.353495740128163,
+                    48.861204990323024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1761-2439",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Rambuteau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3505775629949963,
+                    48.85747798252934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1893-2289",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Hotel de Ville"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.346496835753388,
+                    48.8582114128215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1965-2220",
+                "line": "11",
+                "marker-color": "#6E491E",
+                "marker-symbol": "rail-metro",
+                "name": "Chatelet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.273041525142415,
+                    48.824105030688976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1870-2337",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie d'Issy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.279411682050421,
+                    48.82708544889643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1986-2176",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Corentin-Celton"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.288022141100325,
+                    48.83244909914335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1750-2428",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Versailles"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.296630343233871,
+                    48.83730749458223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1984-2174",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Convention"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.301107514879988,
+                    48.83951658539453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1691-2501",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Vaugirard (Adolphe Cherioux)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.307948679336751,
+                    48.84150552236795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1632-2512",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Volontaires"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.311447513065986,
+                    48.84287127500633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1782-2392",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Pasteur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.317852783041332,
+                    48.84447014129586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1938-2263",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Falguiere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.323397012397453,
+                    48.84378130483655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1826-2365",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Montparnasse-Bienvenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.328778026901662,
+                    48.84494263252667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1842-2309",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Notre-Dame des Champs"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.327782127147534,
+                    48.848457848541784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1646-2526",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Rennes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3254884739691652,
+                    48.851192349321856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1667-2477",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Sevres-Babylone"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.325712422170927,
+                    48.85555094016533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1710-2455",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Rue du Bac"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.323154855841107,
+                    48.85851112987378
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1669-2479",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Solferino"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.320998191954085,
+                    48.860786963526714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2052-2101",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Assemblee Nationale"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.322443412243542,
+                    48.86541977918009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1982-2172",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Concorde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3257722740277487,
+                    48.870499198428696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1869-2336",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Madeleine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.324574810293918,
+                    48.876006398055004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1723-2468",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Lazare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.332543027297523,
+                    48.87631796226447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1686-2496",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Trinite-d'Estienne d'Orves"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.337886489069273,
+                    48.87602621160853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1841-2308",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Notre-Dame de Lorette"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.337595082820351,
+                    48.87842525762863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1720-2465",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Georges"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.336081682514974,
+                    48.882519385636314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1792-2402",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Pigalle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.337949777055663,
+                    48.88459420803534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2037-2156",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Abbesses"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.338760649199277,
+                    48.88967407118814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1920-2245",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Lamarck-Caulaincourt"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.34465700412862,
+                    48.892439590482105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1906-2267",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Jules Joffrin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.348738407022142,
+                    48.89141683421295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1883-2279",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Marcadet-Poissonniers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.359995766405675,
+                    48.89048545384733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1886-2282",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Marx-Dormoy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.359507868815594,
+                    48.897245288093046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1743-2421",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de la Chapelle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.365920319400959,
+                    48.90656714598029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "3901291-3901292",
+                "line": "12",
+                "marker-color": "#00643C",
+                "marker-symbol": "rail-metro",
+                "name": "Front Populaire"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.301678555458344,
+                    48.81074648857956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1969-2224",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Chatillon Montrouge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.297077798334658,
+                    48.81530753120822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1880-2276",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Malakoff-Rue Etienne Dolet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.298464191970636,
+                    48.822583706837726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1879-2275",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Malakoff-Plateau de Vanves"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.305534669653895,
+                    48.82779554349536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1749-2427",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Vanves"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.314122323470855,
+                    48.8318256495863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1799-2372",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Plaisance"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.31807828549193,
+                    48.83393639265079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1787-2397",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Pernety"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.322491749824627,
+                    48.83863164624487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1948-2203",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Gaite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.324397012397453,
+                    48.84278130483655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1827-2366",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Montparnasse-Bienvenue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.316005235737245,
+                    48.846989106139524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1928-2253",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Duroc"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.314408121496151,
+                    48.85144170564173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1719-2464",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Francois-Xavier"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.315056637317088,
+                    48.85687137924918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1638-2518",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Varenne"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3129095777885422,
+                    48.862364704125895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1897-2293",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Invalides"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.312545549946741,
+                    48.86790534489709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2025-2144",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Champs-Elysees-Clemenceau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.313606321619312,
+                    48.87370952773764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1820-2359",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Miromesnil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.323574810293918,
+                    48.87500639805501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1724-2469",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Lazare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.327022200889503,
+                    48.879634760656806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1858-2325",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Liege"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.326839556114741,
+                    48.88361499223493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1796-2406",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Place de Clichy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.325779674806892,
+                    48.88718394686578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1656-2536",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "La Fourche"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.327428458503176,
+                    48.89282885338917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1888-2284",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Guy-Moquet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.328942812779894,
+                    48.89737479552952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1748-2426",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Saint-Ouen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.33183083796241,
+                    48.90609405024862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1959-2214",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Garibaldi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.333924890479715,
+                    48.911964897880885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1874-2270",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie de Saint-Ouen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.343305930512597,
+                    48.919573074058526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1692060-1692061",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Carrefour-Pleyel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.356035794172797,
+                    48.92993588967869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1717-2462",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Denis - Porte de Paris"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.359398261032672,
+                    48.93652685258673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1716-2461",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Basilique de Saint-Denis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.364541763486513,
+                    48.945845657765744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "140078-140079",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Denis-Universite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.320174755787804,
+                    48.89058718660406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "2009-2165",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Brochant"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.313772158769625,
+                    48.89425226224654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1741-2419",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Porte de Clichy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.305924149869319,
+                    48.903330094573725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1872-2268",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Mairie de Clichy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.294685111702555,
+                    48.9163823099221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1947-2202",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Gabriel-Peri"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.286279577529783,
+                    48.92310377966602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1662795-1662796",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Les Agnettes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.284174448283296,
+                    48.93075700333628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1662797-1662798",
+                "line": "13",
+                "marker-color": "#82C8E6",
+                "marker-symbol": "rail-metro",
+                "name": "Asnieres-Gennevilliers Les Courtilles"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.324574810293918,
+                    48.87400639805501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166840-1166841",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Saint-Lazare"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3257722740277487,
+                    48.86876714762112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166838-1166839",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Madeleine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3331895419682502,
+                    48.86590673959416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "6129304-6129305",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Pyramides"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.347614869742138,
+                    48.8578481415575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166834-1166835",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Chatelet"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.372014219940096,
+                    48.84398558201753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166832-1166833",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Gare de Lyon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.378554011203435,
+                    48.840001389548114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166830-1166831",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Bercy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.386632402066985,
+                    48.83333855925167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166828-1166829",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Cour Saint-Emilion"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.375748144341913,
+                    48.829990281683564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166826-1166827",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Bibliotheque-Francois Mitterrand"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.368032647756258,
+                    48.82727083603918
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": "1166824-1166825",
+                "line": "14",
+                "marker-color": "#640082",
+                "marker-symbol": "rail-metro",
+                "name": "Olympiades"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
