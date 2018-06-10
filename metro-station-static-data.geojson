@@ -1354,7 +1354,7 @@
             "properties": {
                 "id": "1742-2420",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Porte de Clignancourt"
             },
@@ -1371,7 +1371,7 @@
             "properties": {
                 "id": "1668-2478",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Simplon"
             },
@@ -1388,7 +1388,7 @@
             "properties": {
                 "id": "1655-2535",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Marcadet-Poissonniers"
             },
@@ -1405,7 +1405,7 @@
             "properties": {
                 "id": "2033-2152",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Chateau Rouge"
             },
@@ -1422,7 +1422,7 @@
             "properties": {
                 "id": "2061-2110",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Barbes-Rochechouart"
             },
@@ -1439,7 +1439,7 @@
             "properties": {
                 "id": "1957-2212",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Gare du Nord"
             },
@@ -1456,7 +1456,7 @@
             "properties": {
                 "id": "1953-2208",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Gare de l'Est (Verdun)"
             },
@@ -1473,7 +1473,7 @@
             "properties": {
                 "id": "2034-2153",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Chateau d'Eau"
             },
@@ -1490,7 +1490,7 @@
             "properties": {
                 "id": "1677-2487",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Strasbourg-Saint-Denis"
             },
@@ -1507,7 +1507,7 @@
             "properties": {
                 "id": "1764-2374",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Reaumur-Sebastopol"
             },
@@ -1524,7 +1524,7 @@
             "properties": {
                 "id": "1934-2259",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Etienne Marcel"
             },
@@ -1541,7 +1541,7 @@
             "properties": {
                 "id": "1855-2322",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Les Halles"
             },
@@ -1558,7 +1558,7 @@
             "properties": {
                 "id": "1964-2219",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Chatelet"
             },
@@ -1575,7 +1575,7 @@
             "properties": {
                 "id": "1975-2230",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Cite"
             },
@@ -1592,7 +1592,7 @@
             "properties": {
                 "id": "1729-2472",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Saint-Michel"
             },
@@ -1609,7 +1609,7 @@
             "properties": {
                 "id": "1845-2312",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Odeon"
             },
@@ -1626,7 +1626,7 @@
             "properties": {
                 "id": "1721-2466",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Saint-Germain des Pres"
             },
@@ -1643,7 +1643,7 @@
             "properties": {
                 "id": "1733-2411",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Saint-Sulpice"
             },
@@ -1660,7 +1660,7 @@
             "properties": {
                 "id": "1731-2442",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Saint-Placide"
             },
@@ -1677,7 +1677,7 @@
             "properties": {
                 "id": "1824-2363",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Montparnasse-Bienvenue"
             },
@@ -1694,7 +1694,7 @@
             "properties": {
                 "id": "1692-2502",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Vavin"
             },
@@ -1711,7 +1711,7 @@
             "properties": {
                 "id": "1645-2525",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Raspail"
             },
@@ -1728,7 +1728,7 @@
             "properties": {
                 "id": "1996-2185",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Denfert-Rochereau"
             },
@@ -1745,7 +1745,7 @@
             "properties": {
                 "id": "1828-2367",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Mouton-Duvernet"
             },
@@ -1762,7 +1762,7 @@
             "properties": {
                 "id": "2040-2159",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Alesia"
             },
@@ -1779,7 +1779,7 @@
             "properties": {
                 "id": "1735-2413",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Porte d'Orleans (General Leclerc)"
             },
@@ -1796,7 +1796,7 @@
             "properties": {
                 "id": "4028973-4028974",
                 "line": "4",
-                "marker-color": "#v",
+                "marker-color": "#A0006E",
                 "marker-symbol": "rail-metro",
                 "name": "Mairie de Montrouge"
             },
